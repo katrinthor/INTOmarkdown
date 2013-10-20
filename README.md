@@ -12,7 +12,7 @@ a comment from the professor (october 17 10:34 pm) where he added a link to
 installing Git on Windows after a discusion on the common difficulties that
 students have had in installing Linux. This was thus my next step.
 
-[URL=http://www.imageurlhost.com/viewer.php?file=jy3zf19t2pxb50gbcj2.jpg][IMG]http://www.imageurlhost.com/images/jy3zf19t2pxb50gbcj2_thumb.jpg[/IMG][/URL]
+![Startup](http://www.imageurlhost.com/images/jy3zf19t2pxb50gbcj2.jpg "Where my startup attempt ended")
 
 ## 2. Uppsetning á vim && git
 
