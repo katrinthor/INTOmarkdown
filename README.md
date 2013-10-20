@@ -1,25 +1,42 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Katrin Sif Þór
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+I decided on installing Linux via the VirtualBox and the Linux Mint VirtualBox
+image. Once I compelted the installation process I had trouble going to the next
+step as all I got was a blackscreen (see Startup.PNG photo). After trying repeatedly
+to reinstall I looked to the discusion group on Facebook for answers. I found
+a comment from the professor (october 17 10:34 pm) where he added a link to
+installing Git on Windows after a discusion on the common difficulties that
+students have had in installing Linux. This was thus my next step.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Retrieving and installing vim and git was pretty straight forward. 
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Using Git Gui was a little complicated as none of the instructions were intended to 
+help with it. However, I used the insturctions that were given, some that I found on
+the internet and some trial and error. The end result was as it should be, or so it 
+would seem. I added the SSH key, had some difficulties and had to git config in my 
+email and name in command propmt. After that I could finish the rest.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/katrinthor/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+	1. VirtualBox
+		a) GNU General Public License V2
+		b) https://www.virtualbox.org/wiki/Licensing_FAQ
+	2. VLC
+		a) GNU General Public License
+		b) http://www.videolan.org/support/faq.html
+	3. Firefox
+		a) Mozilla Public License ("MPL")
+		b) http://www.mozilla.org/MPL/
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
