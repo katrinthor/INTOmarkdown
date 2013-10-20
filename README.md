@@ -12,7 +12,7 @@ a comment from the professor (october 17 10:34 pm) where he added a link to
 installing Git on Windows after a discusion on the common difficulties that
 students have had in installing Linux. This was thus my next step.
 
-![Startupp attempt](Startup.png)
+![eitthvað](/startup.png "This is where my startup attempt ended")
 
 ## 2. Uppsetning á vim && git
 
